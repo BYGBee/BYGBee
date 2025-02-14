@@ -1,14 +1,18 @@
-👋 Hi, I’m @BYGBee or BYG.
-Welcome to my private profile!
+Hi, I’m @BYGBee (BYG). Welcome to my little corner of the internet!
 
-I'm an embedded software engineer with 10+ years experience in industry 🚀🛰️✈️🤖⚙️ based in Belgium 🇧🇪 (currently... working abroad is so fun! 🇬🇫 🗺️). <br>
-I'm active in the DIY/maker community 🛠️.<br>
-I'm also a 3d printing enthusiast, a wargame player (40k and OPR mainly), a motorcycle rider 🏍️ and a beekeeper! 🐝 <br>
+I’m an embedded software engineer with 10+ years of experience 🚀🛰️⚙️, currently based in Belgium 🇧🇪 (but working abroad whenever I can! 🇬🇫 🗺️).
 
-In this repository, you'll find personnal projects I create on my free time. Obviously, I'll not be able to provide kind of professionnal projects as most are under NDA...<br> 
-Feel free to comment on project repos because, as usual in the maker community, C&C WELCOME! 👍
+Beyond my job, I’m a passionate maker and DIY enthusiast 🛠️. I love bringing ideas to life through electronics, 3D printing, and automation. I’m also a wargame player (40k & OPR), a motorcycle rider 🏍️, and a beekeeper 🐝—because why not mix tech and nature?
 
-A French/English discord server is in project. Contact me if you are interested.
+<b>🌱 Solarpunk Dreamer & Builder</b>
+
+I believe in a future where technology serves sustainability. Whether it’s energy-efficient devices, self-sufficient systems, or just smarter ways to use tech, I aim to integrate solarpunk values into my work.
+
+<b>🔧 What You’ll Find Here</b>
+
+This space is where I share my personal projects—a mix of electronics, automation, and creative problem-solving. Due to NDAs, I can’t showcase my professional work, but I’m always up for discussions!
+
+<b>💬 Collaboration & Feedback Welcome!</b> Just like in the maker community, I love learning from others. Feel free to drop a comment! 👍
 
 <!---
 BYGBee/BYGBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
