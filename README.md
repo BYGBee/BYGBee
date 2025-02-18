@@ -6,10 +6,11 @@ Beyond my job, I’m a passionate maker and DIY enthusiast 🛠️. I love bring
 
 <b>🌱 Solarpunk Dreamer & Builder</b>
 
-I believe in a future where technology serves sustainability. Whether it’s energy-efficient devices, self-sufficient systems, or just smarter ways to use tech, I aim to integrate solarpunk values into my work.
+I believe in a future where technology is sustainable, open, and repairable. The Solarpunk ethos and the Right to Repair are at the heart of this vision—extending the life of our devices rather than letting them become e-waste.
 
 <b>🔧 What You’ll Find Here</b>
 
+I love designing things that last: open-source hardware, repairable electronics, and custom 3D-printed parts to fix what others would throw away.
 This space is where I share my personal projects—a mix of electronics, automation, and creative problem-solving. Due to NDAs, I can’t showcase my professional work, but I’m always up for discussions!
 
 <b>💬 Collaboration & Feedback Welcome!</b> Just like in the maker community, I love learning from others. Feel free to drop a comment! 👍
