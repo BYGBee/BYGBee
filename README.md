@@ -16,6 +16,9 @@ This space is where I share my personal projects—a mix of electronics, automat
 
 <b>💬 Collaboration & Feedback Welcome!</b> Just like in the maker community, I love learning from others. Feel free to drop a comment! 👍
 
+<i>💡 Work in Progress</i><br>
+Most of my projects are constantly evolving. I like to refine and improve them before sharing, so expect updates and tweaks along the way!
+
 <!---
 BYGBee/BYGBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
